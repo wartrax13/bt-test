@@ -1,3 +1,6 @@
+# Solution Gleen: https://exercism.org/tracks/python/exercises/forth/solutions/glennj
+
+
 import operator
 class StackUnderflowError(Exception):
     pass
