@@ -6,7 +6,7 @@ Solution Tugrul: https://exercism.org/tracks/python/exercises/forth/solutions/tu
 
 Ambas as soluções implementam o interpretador básico para um subconjunto de Forth, mas há diferenças significativas em termos de estrutura de código, legibilidade, apesar de eficientes em seu resultado.
 
-Minha melhoria está no arquivo Improved_solution_gleen.
+Minha melhoria está no arquivo Improved_solution_gleen ou no link https://exercism.org/tracks/python/exercises/forth/solutions/wartrax13
 
 # Solução de Gleen
 
